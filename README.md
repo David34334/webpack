@@ -14,4 +14,4 @@ Y para reconstruir el build, ejecutar:
 
 ```
 npm run build
-```s
+```
